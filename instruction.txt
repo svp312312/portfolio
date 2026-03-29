@@ -1,0 +1,6 @@
+Для внесения изменений в репозиторий https://github.com/svp312312/portfolio
+
+В cmd установить папку C:\Users\user\Desktop\portfolio\publication>
+git add .
+git commit -m "message"
+git push --set-upstream origin master
